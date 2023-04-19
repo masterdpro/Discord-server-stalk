@@ -6,7 +6,7 @@ import datetime
 
 GUILD_INVITE_CODE = '' # <- Invite code here 
 DISCORD_API_ENDPOINT = f'https://api.mdcdev.me/v1/invites/{GUILD_INVITE_CODE}'
-EXCEL_FILE_PATH = 'test.xlsx'
+EXCEL_FILE_PATH = 'member_count.xlsx'
 WEBHOOK_URL = " " # <- discord webhooh URL
 
 
